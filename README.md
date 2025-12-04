@@ -4,7 +4,7 @@ O MapaFit é um aplicativo desenvolvido em Flutter que conecta pessoas a locais 
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi criado para facilitar a descoberta de espaços como parques, praças e academias ao ar livre. O aplicativo oferece funcionalidades tanto para usuários comuns quanto para administradores, além de um sistema de gamificação para engajar a comunidade.
+Este projeto foi criado para facilitar a descoberta de espaços como parques, praças e academias ao ar livre. O aplicativo oferece diversas funcionalidades, como um sistema de gamificação para engajar a comunidade.
 
 ## ✨ Funcionalidades
 
