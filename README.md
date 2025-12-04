@@ -1,16 +1,34 @@
-# mapa_da_vida
+# MapaFit
 
-A new Flutter project.
+O MapaFit é um aplicativo desenvolvido em Flutter que permite aos usuários encontrar e avaliar locais para a prática de atividades físicas.
 
-## Getting Started
+## Instalação
 
-This project is a starting point for a Flutter application.
+Siga as instruções abaixo para configurar o ambiente de desenvolvimento e executar o projeto.
 
-A few resources to get you started if this is your first Flutter project:
+### Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-   [Flutter](https://flutter.dev/docs/get-started/install) instalado
+-   Um emulador de Android ou iOS, ou um dispositivo físico
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Passos
+
+1.  **Clone o repositório:**
+
+    ```bash
+    git clone <URL_DO_REPOSITORIO>
+    cd MapaFit
+    ```
+
+2.  **Instale as dependências:**
+
+    ```bash
+    flutter pub get
+    ```
+
+3.  **Execute o aplicativo:**
+
+    ```bash
+    flutter run
+    ```
+
