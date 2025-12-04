@@ -30,7 +30,7 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento e exec
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone git@github.com:GabrielBerken/mapafit.git
     cd MapaFit
     ```
 
