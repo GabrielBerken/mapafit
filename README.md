@@ -11,10 +11,6 @@ Este projeto foi criado para facilitar a descoberta de espaços como parques, pr
 -   **Exploração de Locais**: Visualize locais próximos em um mapa ou em uma lista.
 -   **Check-in**: Marque sua presença nos locais para registrar suas atividades.
 -   **Gamificação**: Ganhe conquistas ao completar check-ins e outras atividades.
--   **Painel de Administração**:
-    -   Gerenciamento de locais (cadastrar, editar, remover).
-    -   Gerenciamento de usuários.
--   **Diferentes Perfis de Usuário**: A interface se adapta para usuários logados, não logados e administradores.
 
 ## 🛠️ Tecnologias Utilizadas
 
